@@ -12,6 +12,9 @@ Here are the daily shortcuts on MacOS :clock1:
 |  |  | Command + Q | Quit the current app |
 |  |  | Command + S | Save current document |
 |  |  | Command + N | Open new document/window |
+| 4 | Browser | Command + T | Open new tab |
+|  |  | Command + R | Refresh current tab |
+|  |  | Command + S | Save current document |
 
 
 # ref
